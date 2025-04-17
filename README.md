@@ -88,7 +88,3 @@ Now, the application should be running locally!
 - **Image Processing**: OpenCV or TensorFlow.js
 
 ---
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
